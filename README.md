@@ -8,7 +8,7 @@ Deskripsi singkat proyek:Sebuah Aplikasi untuk membantu para pemacing _(angler)_
 |------------------------------|-----------|------|
 | Andradhi Bondan Pamungkas    | L0124147  | Ketua |
 | Ataa Arkan Tsany             | L0124148  |      |
-| Imam Dian Firmansyah         | L0124150  |      |
+| Imam Dian Firmansyah         | L0124150  | Anggota |
 | Salman Abdussalam            | L0124156  |      |
 
 ## Fitur Utama 
