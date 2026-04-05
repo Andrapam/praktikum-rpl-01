@@ -6,10 +6,10 @@ Deskripsi singkat proyek:- Blum ditentukan
 ## Anggota Kelompok
 | Nama                         | NIM       | Role |
 |------------------------------|-----------|------|
-| Andradhi Bondan Pamungkas    | L0124147  | Ketua |
-| Ataa Arkan Tsany             | L0124148  |      |
-| Imam Dian Firmansyah         |  |      |
-| Salman Abdussalam            | L0124156  |      |
+| Andradhi Bondan Pamungkas   | L0124147  | Ketua / |
+| Ataa Arkan Tsany             | L0124148  |   /   |
+| Imam Dian Firmansyah         |  |      |     /    |
+| Salman Abdussalam            | L0124156  |    /  |
 
 ## Fitur Utama 
 1. Fitur 1  
