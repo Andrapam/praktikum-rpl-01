@@ -7,7 +7,7 @@ Deskripsi singkat proyek: 2–3 kalimat tentang apa aplikasi ini dan untuk siapa
 | Nama                         | NIM       | Role |
 |------------------------------|-----------|------|
 | Andradhi Bondan Pamungkas    | L0124147  | Ketua |
-| Ataa Arkan Tsani             | -         |      |
+| Ataa Arkan Tsany             | L0124148  |      |
 | Imam Dian Firmansyah         | L0124150  |      |
 | Salman Abdussalam            | -         |      |
 
