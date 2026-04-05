@@ -9,7 +9,7 @@ Deskripsi singkat proyek: 2–3 kalimat tentang apa aplikasi ini dan untuk siapa
 | Andradhi Bondan Pamungkas    | L0124147  | Ketua |
 | Ataa Arkan Tsany             | L0124148  |      |
 | Imam Dian Firmansyah         | L0124150  |      |
-| Salman Abdussalam            | -         |      |
+| Salman Abdussalam            | L0124156  |      |
 
 ## Fitur Utama 
 1. Fitur 1  
