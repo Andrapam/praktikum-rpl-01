@@ -1,6 +1,6 @@
 # praktikum-rpl-01
 
-# [Nama Proyek]
+# [-]
 Deskripsi singkat proyek:- Blum ditentukan
 
 ## Anggota Kelompok
