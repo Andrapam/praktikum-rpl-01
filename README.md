@@ -1,7 +1,7 @@
 # praktikum-rpl-01
 
-# [-]
-Deskripsi singkat proyek:- Blum ditentukan
+# [Fishing Spot Sharing Sistem]
+Deskripsi singkat proyek:Sebuah Aplikasi untuk membantu para pemacing _(angler)_ mencari spot memancing sesuai kebutuhan mereka
 
 ## Anggota Kelompok
 | Nama                         | NIM       | Role |
