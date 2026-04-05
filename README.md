@@ -1,7 +1,7 @@
 # praktikum-rpl-01
 
 # [Nama Proyek]
-Deskripsi singkat proyek: 2–3 kalimat tentang apa aplikasi ini dan untuk siapa.
+Deskripsi singkat proyek:- Blum ditentukan
 
 ## Anggota Kelompok
 | Nama                         | NIM       | Role |
@@ -22,4 +22,4 @@ Deskripsi singkat proyek: 2–3 kalimat tentang apa aplikasi ini dan untuk siapa
 - Database: 
 
 ## Cara Instalasi dan Menjalankan
-## Screenshot
+-
