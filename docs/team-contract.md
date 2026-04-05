@@ -9,7 +9,7 @@ Pertemuan: P1
 | Nama | NIM | Role |
 |------|-----|------|
 | Andradhi Bondan Pamungkas | L0124147 | Ketua /  |
-| Ataa Arkan Tsani | - | / |
+| Ataa Arkan Tsany | L0124148 | / |
 | Imam Dian Firmansyah | L0124150 |  |
 | Salman Abdussalam | - |  /  |
 
