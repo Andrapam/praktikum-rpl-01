@@ -1,4 +1,3 @@
 # Problem Statement
-1.Target pengguna
-2.Masalah utama
-3.Kenapa masalah ini penting
+Pemancing di Indonesia terus berkembang dan bertambah, namun belum ada platform khusus untuk berbagi informasi lokasi spot mancing secara terstruktur dan jelas. Saat ini informasi spot tersebar di grup WhatsApp dan media sosial(tiktik, Facebook dan Youtube) tanpa standar yang jelas, sehingga sulit diakses dan tidak dapat diandalkan — terutama bagi pemancing baru yang sering membuang waktu dan biaya mencari lokasi yang tidak sesuai harapan.
+FishPoint hadir sebagai solusi berbasis web dan mobile yang memungkinkan para pemancing untuk berbagi, menemukan, dan menilai spot mancing secara terpusat dan jelas. Member dapat menambahkan spot beserta foto, koordinat, dan ulasan. Guest tetap bisa menelusuri informasi tanpa mendaftar. Admin menjaga kualitas konten platform agar tetap aman dan akurat.
