@@ -28,7 +28,7 @@
 
 ---
 
-## Could-have (Jika waktu memungkinkan)
+## Could-have (Jika waktu ada / memungkinkan)
 
 | ID | User Story | Aktor |
 |---|---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Won't-have (Ditunda)
+## Won't-have (Tidak / Ditunda)
 
 | ID | User Story | Alasan |
 |---|---|---|
