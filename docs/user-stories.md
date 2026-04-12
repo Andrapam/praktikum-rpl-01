@@ -143,7 +143,7 @@ Then konten tersebut dihapus dan tidak ditampilkan kepada pengguna lain
 ---
 
 ### US-10 — Ban Member (Admin)
-> Sebagai **admin**, saya ingin **menonaktifkan akun member yang melanggar**, agar **pengguna bermasalah tidak bisa terus mengakses platform**.
+> Sebagai **admin**, saya ingin **menonaktifkan akun member yang melanggar atura**, agar **pengguna bermasalah tidak bisa terus mengakses platform**.
 
 **MoSCoW:** `Should`
 
@@ -161,13 +161,13 @@ And saat mencoba login, sistem menampilkan "Akun Anda telah dinonaktifkan"
 
 | ID | Judul | Aktor | MoSCoW |
 |---|---|---|---|
-| US-01 | Lihat daftar spot | Guest | `Must` |
+| US-01 | Lihat datar spot | Guest | `Must` |
 | US-02 | Lihat detail & gambar spot | Guest | `Must` |
 | US-03 | Registrasi akun | Guest | `Must` |
 | US-04 | Login | Member | `Must` |
-| US-05 | Tambah spot | Member | `Must` |
+| US-05 | Tamba spot | Member | `Must` |
 | US-06 | Tambah review & rating | Member | `Must` |
 | US-07 | Edit spot sendiri | Member | `Should` |
 | US-08 | Hapus spot | Admin | `Must` |
-| US-09 | Sensor konten | Admin | `Should` |
+| US-09 | Sensr konten | Admin | `Should` |
 | US-10 | Ban member | Admin | `Should` |
