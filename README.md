@@ -1,15 +1,15 @@
 # praktikum-rpl-01
 
-# [Nama Proyek]
-Deskripsi singkat proyek:- Blum ditentukan
+# [Fishing Spot Sharing Sistem]
+Deskripsi singkat proyek:Sebuah Aplikasi untuk membantu para pemacing _(angler)_ mencari spot memancing sesuai kebutuhan mereka
 
 ## Anggota Kelompok
 | Nama                         | NIM       | Role |
 |------------------------------|-----------|------|
 | Andradhi Bondan Pamungkas    | L0124147  | Ketua |
-| Ataa Arkan Tsany             | L0124148  |      |
-| Imam Dian Firmansyah         | L0124150  |      |
-| Salman Abdussalam            | L0124156  |      |
+| Ataa Arkan Tsany             | L0124148  |Anggota|
+| Imam Dian Firmansyah         | L0124150  |Anggota|
+| Salman Abdussalam            | L0124156  |Anggota|
 
 ## Fitur Utama 
 1. Fitur 1  
