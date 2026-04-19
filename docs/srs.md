@@ -18,16 +18,24 @@ FishPoint adalah platform berbasis web dan mobile untuk berbagi informasi lokasi
 ## 2. Deskripsi Umum
 
 ### 2.1 Perspektif Produk
-
+FishPoint merupakan sistem yang berdiri sendiri berbasis web dan mobile, dikembangkan sebagai solusi untuk komunitas pemancing yang selama ini mengandalkan grup medial sosial atau forum yang kurang tersrtuktur. Sistem ini berinteraksi dengan dua layanan eksternal: API peta pihak ketiga untuk visualisai koordinat spot, dan layanan penyimpanan cloud untuk manajemen galeri foto.
 ### 2.2 Fungsi Produk
-
+- **Eksplorasi Spot Memancing**: Menampilkan daftar dan detail spot yang dapat diakses publik tanpa perlu login.
+- **Manajemen Akun**: Registrasi, login, dan pengelolaan profil member.
+- **Kontribusi Konten**: Member dapat mengunggah spot baru beserta foto dan koordinat lokasi.
+- **Sistem Ulasan**: Member dapat memberikan rating bintang dan ulasan teks pada spot yang ada.
+- **Moderasi Konten**: Admin dapat mengelola spot, ulasan, foto, dan akun yang melanggar ketentuan.
 ### 2.3 Karakteristik Pengguna
 1. **Guest**: Pengguna tanpa akun yang hanya bisa melihat data publik.
 2. **Member**: Pengguna terdaftar yang memiliki hak akses untuk berkontribusi.
 3. **Admin**: Pengelola sistem dengan otoritas penuh atas validitas konten.
 
 ### 2.4 Batasan
-
+- Sistem hanya mendukung bahasa antarmuka Bahasa Indonesia pada versi MVP.
+- Unggahan foto dibatasi maksimal 2mb per file dan maksimal 5 foto per spot.
+- Fitur offline tidak didukung. Seluruh fungsionalitas membutuhkan koneksi internet aktif.
+- Sistem tidak memproses transaksi finansial dalam bentuk apapun.
+- Moderasi konten bersifat manual, dilakukan oleh Admin, belum ada otomatisasi berbasis AI.
 ## 3. Kebutuhan Fungsional
 
 | ID | Deskripsi Fungsi | Prioritas | Ref: US |
