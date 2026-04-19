@@ -52,6 +52,11 @@ FishPoint merupakan sistem yang berdiri sendiri berbasis web dan mobile, dikemba
 | **FR-10** | Sistem menyediakan fungsi penonaktifan akun Member oleh Admin. | Medium | US-10 |
 
 ## 4. Kebutuhan Non-Fungsional
+1. **NFR-01 (Performance):** Sistem harus memuat daftar spot mancing dan peta detail spot dalam waktu < 3 detik pada koneksi internet broadband/4G standar.
+2. **NFR-02 (Security):** Kata sandi (password) Member dan Admin dienkripsi dengan algoritma strandar sebelum disimpan ke database.
+3. **NFR-03 (Usability):** Member dapat menyelesaikan proses pengunggahan spot mancing baru maksimal dalam 3 langkah interaksi.
+4. **NFR-04 (Capacity):** Sistem dapat melayani minimal 50 users secara bersamaan tanpa penurunan performa sistem yang signifikan.
+5. **NFR-05 (Availability):** Sistem harus dapat diakses 24/7 dengan target uptime minimal 99% per bulan.
 
 ## 5. Catatan dan Asumsi
 - Asumsi: Pengguna memiliki akses ke GPS atau layanan lokasi agar fitur koordinat spot berfungsi akurat.
